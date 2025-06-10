@@ -4,9 +4,9 @@
 * tailwind 
 * git
 ## Resultados:
-### * Desktop
+* ### Desktop
 ![resultado do desktop](./readme-img/desktop.png)
-### * Tablet
+* ### Tablet
 ![Resultado do tablet](./readme-img/tablet.png)
-### * Mobile
+* ### Mobile
 ![Resultado do mobile](./readme-img/mobile.png)
